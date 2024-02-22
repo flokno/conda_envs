@@ -1,0 +1,4 @@
+rich
+typer
+matplotlib
+jupyter_contrib_nbextensions

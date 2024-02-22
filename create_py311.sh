@@ -9,3 +9,6 @@ conda create \
 	pandas \
 	jupyter \
 	xarray
+
+
+pip install -r requirements.txt

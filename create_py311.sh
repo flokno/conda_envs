@@ -1,7 +1,6 @@
 #! /usr/bin/env bash
 
-conda create \	
-	-n py311 \
+conda create -n py311 \
 	-c conda-forge \
 	python=3.11 \
 	numpy \

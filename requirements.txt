@@ -1,4 +1,10 @@
+black
+isort
+flake8
+pytest
 rich
 typer
 matplotlib
-jupyter_contrib_nbextensions
+notebook
+jupyterlab-code-formatter
+# jupyter_contrib_nbextensions
